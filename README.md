@@ -63,7 +63,7 @@ npm run build
 
 ## Part of DealFlow CRE
 
-This MCP server is the AI integration layer for [DealFlow CRE](https://github.com/anashp78) — a multi-tenant commercial real estate platform with broker authentication, deal pipeline management, AI document extraction, and property data ingestion.
+This MCP server is the AI integration layer for [DealFlow CRE](https://github.com/maxev-digital) — a multi-tenant commercial real estate platform with broker authentication, deal pipeline management, AI document extraction, and property data ingestion.
 
 ## Author
 
